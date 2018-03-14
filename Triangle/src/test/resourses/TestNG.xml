@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="TriangleDetectionTest">
+        <classes>
+            <class name="triangle.TNGDetectTriangleTest"/>
+        </classes>
+    </test>
+    <test name="TriangleCheckingTest">
+        <classes>
+            <class name="triangle.TNGCheckTriangleTest"/>
+        </classes>
+    </test>
+    <test name="TriangleSquareTest">
+        <classes>
+            <class name="triangle.TNGGetSquareTest"/>
+        </classes>
+    </test>
+</suite>
